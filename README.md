@@ -1,110 +1,92 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanapol Khampimpit
-===========================================================================================================================================
-
-* 🌍 I'm based in Bangkok - Thailand
-* 📖 I'm currently studying at Kasetsart University, Sriracha Campus — Faculty of Science, majoring in Digital Science and Technology
-
----
-
-## 🏆 Certificates & Competitions
-
-- 🏅 **KU AI Pioneers: Forward Challenge** — *AI for Gen Z Lifestyle @KU*
-  - Project: **APM AI Assistant for Personal Motivation**
-  - Team Name: **APM**
-  - Role: **Team Leader**
-  - Tech Stack: **FastAPI, React (Vite), Docker Compose, Ollama (Gemma 3)**
-  - Focus: **Gen Z mental wellness + productivity / time management**
-  - Note: Built as an AI lifestyle companion with 3 modes (Bro / Cute Girl / Nerd)
-
----
-
-### Skills
+# 🚀 Thanapol Khampimpit (Pan)
+**Digital Science & Technology Student | AI & Full-Stack Developer**
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/>
+  <a href="https://github.com/Thanapolkpp">
+    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-0891b2?style=flat-square" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/>
-  </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
+  <a href="https://www.linkedin.com/in/thanapol-khampimpit-578159356/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-### Socials
+### 📖 About Me
+* 🌍 Based in **Bangkok, Thailand**
+* 🎓 Studying at **Kasetsart University, Sriracha Campus**
+* 🧪 Majoring in **Digital Science and Technology**
+* 💡 Interested in **AI Agents, LLMs, and Modern Web Architectures**
 
+---
+
+### 🏆 Featured Achievements
+**Team Leader @ KU AI Pioneers: Forward Challenge**
+> **Project: APM (AI Assistant for Personal Motivation)**
+> * AI lifestyle companion for Gen Z mental wellness with 3 personality modes.
+> * **Stack:** FastAPI, React (Vite), Docker, Ollama (Gemma 3)
+
+**Competitive Programming 2025**
+> **Result: 1st Runner-up** 🥈
+> * Competed in algorithm design and problem-solving using C and Python.
+
+---
+
+### 📸 Highlights & Activities
+<table border="0">
+  <tr>
+    <td>
+      <img src="" width="100%" alt="Competitive Programming 2025 Winner" />
+      <p align="center"><b>🥈 1st Runner-up @ Competitive Programming 2025</b></p>
+    </td>
+    <td>
+      <img src="" width="100%" alt="Industrial Automation Lab" />
+      <p align="center"><b>⚙️ Hands-on @ Industrial Automation & PLC Lab</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="" width="100%" alt="Tech Community" />
+      <p align="center"><b>👥 Building Tech Community @ KU Sriracha</b></p>
+    </td>
+    <td>
+      <img src="" width="100%" alt="Data Science Session" />
+      <p align="center"><b>📊 Data Analysis & Visualization Workshop</b></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `C` `HTML/CSS` |
+| **Frameworks** | `React (Vite)` `FastAPI` `Node.js` `Tailwind CSS` |
+| **AI & Data** | `Ollama` `Gemma 3` `LLM Integration` `Data Mining` |
+| **DevOps/Tools** | `Docker` `Docker Compose` `Git` `VS Code` `Photoshop` |
+
+---
+
+### 📊 GitHub Activity
 <p align="left">
-  <a href="https://www.github.com/Thanapolkpp" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-    </picture>
-  </a>
-
-  <a href="http://www.instagram.com/punz_tnp" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-    </picture>
-  </a>
-
-  <a href="https://www.linkedin.com/in/thanapol-khampimpit-578159356/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-
-  <a href="https://www.youtube.com/@punzkpp8430" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
-    </picture>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanapolkpp&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapolkpp&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2" alt="Top Langs" height="170" />
 </p>
 
 ---
 
-### Badges
+### 🔗 Connect & Socials
+<p align="left">
+  <a href="https://github.com/Thanapolkpp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thanapol-khampimpit-578159356/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://www.instagram.com/punz_tnp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@punzkpp8430"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Thanapolkpp">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanapolkpp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Thanapolkpp's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Thanapolkpp">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanapolkpp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/Thanapolkpp" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapolkpp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<p align="center">
+  <i>"Turning ideas into code, one commit at a time."</i>
+</p>
