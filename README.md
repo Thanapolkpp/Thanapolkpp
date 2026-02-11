@@ -4,14 +4,6 @@
 **Digital Science & Technology @ KU Sriracha**
 # Frontend Developer
 
-<p align="center">
-  <a href="https://github.com/Thanapolkpp">
-    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-0891b2?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/thanapol-khampimpit-578159356/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=THANAPOL%20KPP.&section=header&reversal=false&fontSize=50&textBg=false" width="100%"/>
