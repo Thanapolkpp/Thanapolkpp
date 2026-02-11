@@ -44,11 +44,10 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **💻 Coding** | `Python` `JavaScript` `C` `HTML/CSS` |
-| **⚡ Frameworks** | `React` `FastAPI` `Node.js` `Tailwind` |
-| **🧠 Intelligence** | `Ollama` `Gemma 3` `LLM Integration` |
-| **🐳 Ops & Tools** | `Docker` `Git` `VS Code` `Photoshop` |
-
+| **💻 Coding** | <img src="https://skillicons.dev/icons?i=py,js,c,html,css" /> |
+| **⚡ Frameworks** | <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tailwind" /> |
+| **🧠 Intelligence** | <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Gemma-000000?style=for-the-badge&logo=google&logoColor=white" /> |
+| **🐳 Ops & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,vscode,ps" /> |
 ---
 
 ### 📈 Stats & Contributions
