@@ -52,8 +52,8 @@
 
 ### 📈 Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanapolkpp&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapolkpp&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thanapolkpp&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thanapolkpp&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2" height="150" />
 </div>
 
 ---
